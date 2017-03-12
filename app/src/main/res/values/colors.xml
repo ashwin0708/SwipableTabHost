@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#19a458</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#fcf4ea</color>
+
+
+    <color name="home">#ffaf40</color>
+
+    <color name="tab2">#1b7802</color>
+
+    <color name="tab3">#836e50</color>
+
+
+</resources>
